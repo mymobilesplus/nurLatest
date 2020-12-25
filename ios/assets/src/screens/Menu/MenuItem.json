@@ -1,0 +1,52 @@
+[{
+    "id":1,
+    "option":"My Account",
+    "name":"My Account",
+    "key":"myaccount"
+},
+{
+    "id":2,
+    "name":"Medical Profiles",
+    "key":"medicalprofile"
+},
+{
+    "id":3,
+    "name":"Family Profiles",
+    "key":"familyprofile"
+},
+{
+    "id":4,
+    "name":"Saved Doctors"
+},
+{
+    "id":5,
+    "name":"My Vaccinations",
+    "key":"myvaccination"
+},
+{
+    "id":6,
+    "name":"Vaccinations List"
+},
+{
+    "id":7,
+    "name":"App Settings",
+    "key":"appsetting"
+},
+{
+    "id":8,
+    "name":"Share the App"
+},
+{
+    "id":9,
+    "name":"Send Feedback"
+},
+{
+    "id":10,
+    "name":"About Us",
+    "key":"aboutus"
+},
+{
+    "id":11,
+    "name":"Sign Out"
+}
+]

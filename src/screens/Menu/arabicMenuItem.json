@@ -1,0 +1,56 @@
+[{
+    "id":1,
+    "name":"حسابى الشخصي",
+    "key":"myaccount"
+},
+{
+    "id":2,
+    "name":"ملفي الطبي",
+    "key":"medicalprofile"
+},
+{
+    "id":3,
+    "name":"حسابات العائلة",
+    "key":"familyprofile"
+},
+{
+    "id":4,
+    "name":"الأطباء المحفوظة",
+    "key": "MyDoctors"
+},
+{
+    "id":5,
+    "name":"المقالات المحفوظة",
+    "key": "savedArticles"
+},
+{
+    "id":6,
+    "name":"لقاحات",
+    "key":"Evevaccination"
+},
+{
+    "id":7,
+    "name":"الإعدادات",
+    "key":"appsetting"
+},
+{
+    "id":8,
+    "name":"شارك التطبيق",
+    "key": "Share"
+},
+{
+    "id":9,
+    "name":"شاركنا الأراء",
+    "key":"SendFeedback"
+},
+{
+    "id":10,
+    "name":"عن التطبيق",
+    "key":"aboutus"
+},
+{
+    "id":11,
+    "name":"تسجيل الخروج",
+    "key": "Sign Out"
+}
+]

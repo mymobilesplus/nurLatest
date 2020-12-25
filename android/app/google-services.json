@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243833428685",
+    "firebase_url": "https://nursenova-942e7.firebaseio.com",
+    "project_id": "nursenova-942e7",
+    "storage_bucket": "nursenova-942e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243833428685:android:8467a8948ec2f004e02784",
+        "android_client_info": {
+          "package_name": "com.nursenova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243833428685-s4ccmklq4ic68b14n4qffufcvr4j0t6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP3QWQEVGpBwPJps78DFoaxgvtEyX4zLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243833428685-s4ccmklq4ic68b14n4qffufcvr4j0t6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
